@@ -1,3 +1,4 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "python.pythonPath": "C:\\Users\\mag_5.MOHAMMEDGAD\\envs\\stats_cms\\Scripts\\python.exe"
 }
